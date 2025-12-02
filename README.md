@@ -10,4 +10,6 @@ Streamlit app for managing students, enrollments, tuition and reports.
    python -m venv .venv
    source .venv/bin/activate
    pip install -r requirements.txt
+3. Type streamlit run application.py in the terminal.
+4. Run the app.
 
