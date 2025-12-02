@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+.idea/
+.vscode/
+instance/
+*.sqlite3
+
+# Secrets
+.env
+.env.local
+.env.*.local
+
+# Streamlit cache
+.streamlit/
+
+# OS
+.DS_Store
+
+# Logs
+logs/
+*.log

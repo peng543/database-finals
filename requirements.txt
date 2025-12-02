@@ -1,0 +1,7 @@
+streamlit==1.28.0
+mysql-connector-python==8.0.33
+pandas>=2.0.3
+python-dotenv==1.0.0
+matplotlib>=3.7.2
+plotly==5.16.1
+streamlit-option-menu==0.3.2
